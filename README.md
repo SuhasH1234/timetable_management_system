@@ -1,9 +1,9 @@
-🧠 Project 1: Timetable Management System
+Timetable Management System
 
     Description:
     A role-based academic timetable management platform that automates scheduling, faculty allocation, and student management. It includes JWT-secured authentication, RESTful APIs, and a responsive React.js frontend integrated with a Spring Boot backend.
 
-🚀 Tech Stack:
+Tech Stack:
 
       Frontend: React.js, JavaScript, Bootstrap
       
@@ -13,7 +13,7 @@
       
       Tools: Postman, Git
 
-🧩 Key Features:
+Key Features:
 
       Role-based authentication (Admin, Faculty, Student) using Spring Security + JWT.
       
@@ -25,7 +25,7 @@
       
       Secure login, session management, and data validation.
 
-⚙️ Responsibilities:
+Responsibilities:
 
       Backend API Development & Database Management.
       
@@ -35,5 +35,5 @@
     
       Integrated APIs using Axios and Postman testing.
 
-📈 Outcome:
+Outcome:
       A scalable and secure web platform that simplifies timetable scheduling and academic management in educational institutions.

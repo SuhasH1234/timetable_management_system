@@ -15,25 +15,25 @@
 
 🧩 Key Features:
 
-  Role-based authentication (Admin, Faculty, Student) using Spring Security + JWT.
-  
-  CRUD operations for academic entities (Semesters, Courses, Faculty, Sections).
-  
-  Responsive dashboard UI built with React.js and Bootstrap.
-  
-  RESTful API integration between frontend and backend.
-  
-  Secure login, session management, and data validation.
+      Role-based authentication (Admin, Faculty, Student) using Spring Security + JWT.
+      
+      CRUD operations for academic entities (Semesters, Courses, Faculty, Sections).
+      
+      Responsive dashboard UI built with React.js and Bootstrap.
+      
+      RESTful API integration between frontend and backend.
+      
+      Secure login, session management, and data validation.
 
 ⚙️ Responsibilities:
 
-  Backend API Development & Database Management.
-  
-  Implemented JWT authentication and authorization.
-  
-  Developed frontend components with React.js.
-
-  Integrated APIs using Axios and Postman testing.
+      Backend API Development & Database Management.
+      
+      Implemented JWT authentication and authorization.
+      
+      Developed frontend components with React.js.
+    
+      Integrated APIs using Axios and Postman testing.
 
 📈 Outcome:
-  A scalable and secure web platform that simplifies timetable scheduling and academic management in educational institutions.
+      A scalable and secure web platform that simplifies timetable scheduling and academic management in educational institutions.

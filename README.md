@@ -36,4 +36,5 @@
       Integrated APIs using Axios and Postman testing.
 
 📈 Outcome:
+
       A scalable and secure web platform that simplifies timetable scheduling and academic management in educational institutions.
